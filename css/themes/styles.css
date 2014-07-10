@@ -1,0 +1,87 @@
+img{
+	display:block;
+	margin:auto auto;
+}
+
+p{
+	text-align:center;
+	color:#FFFF00;
+	
+}
+
+#arrows{
+	height: 75px;
+	width: 150px;
+margin: auto auto;
+}
+
+#arrows a{
+	float:left;
+}
+
+#image {
+padding-left: 0 !important;
+}
+
+img.text{
+height: 150px;
+}
+
+img.squid{
+	height:60px;
+}
+
+img.thanks{
+	height:35px;
+}
+
+img.bbio{
+	height:150px;
+}
+
+img.bugs{
+	height:240px;
+	float: left;
+	padding-left:80px;
+}
+
+.arrows{
+	max-width:45px;
+	float:right;
+	padding-right: 10px;
+}
+
+.arrow{
+	max-width:45px;
+	float:left;
+	
+}
+
+img.woody{
+	height:240px;
+	float: left;
+
+	
+}
+	
+.arrow2 {
+	max-width:45px;
+	float:left;
+}
+
+
+
+.arrow3 {
+	float: left;
+}
+
+img.woodyw{
+	height:240px;
+	float:left;
+}
+
+img.results{
+	height: 30px;
+}
+
+
